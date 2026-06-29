@@ -3,7 +3,7 @@ GIS and remote sensing project for spatial planning analysis using CORINE, Senti
 ## Project Overview
 
 This project presents a geospatial analysis workflow focused on spatial planning, land use assessment, environmental monitoring, and infrastructure accessibility within a selected sub-district Nakielski of the Kujawsko-Pomorskie (KP) province in Poland.
-It highlights the role of GIS as a decision-support tool for analyzing spatial relationships between natural environments, infrastructure systems, and administrative regions.
+
 
 
 ## Data Sources 
