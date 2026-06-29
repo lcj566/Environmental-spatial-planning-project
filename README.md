@@ -7,11 +7,11 @@ This project presents a geospatial analysis workflow focused on spatial planning
 
 
 ## Data Sources 
-CORINE Land Cover (CLC)
-Natura 2000 Protected Areas
-SRTM Digital Elevation Model (DEM)
-ESRI Data & Maps
-Statistics Poland (GUS)
+CORINE Land Cover (CLC),
+Natura 2000 Protected Areas,
+SRTM Digital Elevation Model (DEM),
+ESRI Data & Maps,
+Statistics Poland (GUS).
 
 The objective of the project is to demonstrate how remote sensing and GIS-based analysis can support spatial planning and environmental decision-making processes.
 
