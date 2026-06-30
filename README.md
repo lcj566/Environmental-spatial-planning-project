@@ -66,6 +66,6 @@ The final output is presented as a multi-layer GIS map layout integrating all an
 
 ## Main Deliverable
 
-- `final_layout.png` – Comprehensive map layout containing all spatial analysis results
+- `final_spatial_planning_map.jpg` – Comprehensive map layout containing all spatial analysis results
 
 
