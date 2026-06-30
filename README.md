@@ -1,5 +1,5 @@
 # Environmental-spatial-planning-project
-GIS and remote sensing project for spatial planning analysis using CORINE, Sentinel-2, DSM, and network-based modelling in ArcGIS pro.
+GIS and remote sensing project for spatial planning analysis using CORINE,Natura 2000, DEM, and network-based modelling in ArcGIS pro.
 ## Project Overview
 
 This project presents a geospatial analysis workflow focused on spatial planning, land use assessment, environmental monitoring, and infrastructure accessibility within a selected sub-district Nakielski of the Kujawsko-Pomorskie (KP) province in Poland.
